@@ -19,6 +19,7 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [sina sheikh :bowtie:](https://github.com/mrsinshin)
 - [:heart:Bluepaper:sunglasses:](https://github.com/MrBluepaper)
 - Danial
+- A-S
 - [CodeWithEmaD](https://github.com/CodeWithEmad)
 - [Hossein Mirazimi](https://github.com/Hossein-Mirazimi)
 - [Morteza Heydari](https://github.com/MortezaHeydari97)
